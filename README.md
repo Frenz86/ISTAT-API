@@ -10,6 +10,7 @@ Che tu sia un'organizzazione esistente, un individuo curioso o un ricercatore ac
 - Ottieni i dati di un set di dati disponibile in formato Pandas DataFrame, CSV o JSON.
 
 La documentazione inerente all'API ISTAT https://developers.italia.it/it/api/istat-sdmx-rest
+
 Il Single Exit Point (SEP) è una API esposta dall'Istituto Nazionale di Statistica (Istat) per permettere l'accesso in modalità machine-to-machine ai dati memorizzati nel database di diffusione I.Stat. Il servizio, gratuito e liberamente disponibile, consente agli enti e alle organizzazioni di formulare specifiche richieste (query), di effettuare il download dei dati di interesse e di accoglierli agevolmente nei propri sistemi (basi dati, portali web ecc.). La ricerca delle statistiche correntemente prodotte dall’Istat è facilitata da una catalogazione per temi. 
 
 
